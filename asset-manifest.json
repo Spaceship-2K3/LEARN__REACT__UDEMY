@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LEARN__REACT__UDEMY/static/css/main.2c33dd3c.css",
+    "main.js": "/LEARN__REACT__UDEMY/static/js/main.8921e9ee.js",
+    "static/js/453.ed3810f9.chunk.js": "/LEARN__REACT__UDEMY/static/js/453.ed3810f9.chunk.js",
+    "static/media/game-logo.png": "/LEARN__REACT__UDEMY/static/media/game-logo.8e78fca90221d93a071c.png",
+    "static/media/bg-pattern-dark.png": "/LEARN__REACT__UDEMY/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/LEARN__REACT__UDEMY/index.html",
+    "main.2c33dd3c.css.map": "/LEARN__REACT__UDEMY/static/css/main.2c33dd3c.css.map",
+    "main.8921e9ee.js.map": "/LEARN__REACT__UDEMY/static/js/main.8921e9ee.js.map",
+    "453.ed3810f9.chunk.js.map": "/LEARN__REACT__UDEMY/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c33dd3c.css",
+    "static/js/main.8921e9ee.js"
+  ]
+}
